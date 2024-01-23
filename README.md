@@ -1,6 +1,7 @@
 I am a software development student in the informatics department. I am interested in design and templates. I am always open to collaborations on web-based application projects in order to reinforce the education I received at scholl.
 
-To reach me: feizas#0034
+To reach me:
+Discord ->  feizas#0034
 
 <!--
 **feizas/feizas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
